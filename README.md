@@ -9,3 +9,5 @@ For DigitalClock,
 3. Use 4 Seven-segment-display LED for output.
 
 4. Speed control:fre_div module.
+
+5. __Author: ZY Deng.__ ~~OB: SC Liu.~~
