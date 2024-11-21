@@ -10,4 +10,4 @@ For DigitalClock,
 
 4. Speed control:fre_div module.
 
-5. __Author: ZY Deng.__ ~~OB: SC Liu.~~
+5. __Author: [ZY Deng](https://github.com/Seraphir).__ ~~OB: SC Liu.~~
